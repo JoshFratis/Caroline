@@ -1,0 +1,3 @@
+You've been tasked with protecting Caroline, a defenseless child in a dangerous world. Cross the dark forest with the child in one hand and your torch in the other. But be warned! A ferocious monster lurks these woods. Keep your wits about you, and you may just reach the other side. Be quick! The torchlight wanes, and in darkness all hope will be lost. 
+
+This game was made by me, Joshua Fratis, for a class at the University of Pittsburgh. It's my first foray into Unity. All art assets were downloaded from the Unity Asset Store. All code was written by me in C#. 
